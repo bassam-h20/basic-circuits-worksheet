@@ -27,6 +27,7 @@ Built a LED circuit using the following components:
 4 - Coin Cell Battery
 5 - Coil wire
 
+Demonstrative image may be found uploaded in repository
 ```
 
 ## Integrate with your tools
