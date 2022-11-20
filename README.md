@@ -20,12 +20,16 @@ git remote add origin https://gitlab.uwe.ac.uk/b3-ali/digital-design-worksheet.g
 git branch -M main
 git push -uf origin main
 
+
+Task 1:
 Built a LED circuit using the following components:
 1 - 330 Ohm Resistor
 2 - An LED
 3 - Bread Board
 4 - Coin Cell Battery
 5 - Coil wire
+
+Circuit fully operational, red LED light not that brightly lit, but is working fine.
 
 Demonstrative image may be found uploaded in repository
 ```
