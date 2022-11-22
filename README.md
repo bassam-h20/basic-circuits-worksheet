@@ -30,15 +30,12 @@ Built a LED circuit using the following components:
 5 - Coil wire
 
 - Circuit fully operational, red LED light not that brightly lit, but is working fine.
-
 - Image of circuit can be found uploaded as (LED_circuit.jpeg)
 
 
 Task 2:
 - Used the Raspberry Pi as the power source for the LED Circuit and implemented code (code file: led_task2.py) to allow the red LED  light to turn on for 1 second and turn off. Connected wire to port 17.
-
 - Circuit is fully operational and code is functional.
-
 - Image of circuit can be found uploaded as (LED_circuit2.jpeg)
 
 
@@ -47,8 +44,7 @@ Task 3:
 - Added two more LED lights, two resistors, 4 wires. 
 - Yellow LED light connected to port 10, and Green LED light connected to port 11
 
-- Ciruit is fully operational and code is functional
-
+- Circuit is fully operational and code is functional
 - Image of circuit can be found uploaded as (LED_circuit3.jpeg)
 ```
 
