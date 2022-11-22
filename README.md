@@ -35,7 +35,7 @@ Built a LED circuit using the following components:
 
 
 Task 2:
-- Used the Raspberry Pi as the power source for the LED Circuit and implemented code (code file: led_task2.py) to allow the red    LED  light to turn on for 1 second and turn off. Connected wire to port 17.
+- Used the Raspberry Pi as the power source for the LED Circuit and implemented code (code file: led_task2.py) to allow the red LED  light to turn on for 1 second and turn off. Connected wire to port 17.
 
 - Circuit is fully operational and code is functional.
 
