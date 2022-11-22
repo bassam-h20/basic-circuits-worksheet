@@ -31,7 +31,15 @@ Built a LED circuit using the following components:
 
 Circuit fully operational, red LED light not that brightly lit, but is working fine.
 
-Demonstrative image may be found uploaded in repository
+Demonstrative image can be found uploaded as (LED_circuit.jpeg)
+
+
+Task 2:
+Used the Raspberry Pi as the power source for the LED Circuit and implemented code (code file: led_task2.py) to allow the red LED light to turn on for 1 second and turn off.
+
+Circuit is fully operational and code works accordingly.
+
+Demonstrative image can be found uploaded as (LED_circuit2.jpeg)
 ```
 
 ## Integrate with your tools
