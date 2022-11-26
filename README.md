@@ -12,7 +12,7 @@ git push -uf origin main
 - [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
 
 ```
-###H3 Task 1:
+###Task 1:
 Built a LED circuit using the following components:
 1 - 330 Ohm Resistor
 2 - An LED
