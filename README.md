@@ -1,13 +1,10 @@
 # Digital Design Worksheet
 
-Built a LED circuit using the following components:
-1 - 330 Ohm Resistor
-2 - An LED
-3 - Bread Board
-4 - Coin Cell Battery
-5 - Coil wire
 
-
+cd existing_repo
+git remote add origin https://gitlab.uwe.ac.uk/b3-ali/digital-design-worksheet.git
+git branch -M main
+git push -uf origin main
 
 ## Add your files
 
@@ -15,13 +12,7 @@ Built a LED circuit using the following components:
 - [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
 
 ```
-cd existing_repo
-git remote add origin https://gitlab.uwe.ac.uk/b3-ali/digital-design-worksheet.git
-git branch -M main
-git push -uf origin main
-
-
-Task 1:
+###H3 Task 1:
 Built a LED circuit using the following components:
 1 - 330 Ohm Resistor
 2 - An LED
