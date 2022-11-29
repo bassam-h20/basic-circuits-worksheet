@@ -27,4 +27,15 @@
 * Circuit is fully functional
 ![led circuit 3](./LED_circuit3.jpeg)
 
+### Task 4:
+######Built on my previous circuit and added the following to it:
+1. 2 more LED lights, 3 in total
+2. 2 more 220 ohm resistors
+3. 2 buttons each with a 10 KOhm resistor
+4. More Coil wires
 
+- Button 1 allows the user to turn the LED lights on or off
+
+- Button 2 allows the user to turn to LED lights in a sequence different to the first button, or change the direction of the light sequence
+
+![led circuit 4](./LED_circuit4.jpeg)
