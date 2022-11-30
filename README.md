@@ -21,7 +21,7 @@
 
 ### Task 3:
 ######  Implemented code to blink each LED light for 2 seconds in the order (Red, Yellow, Green), (code file: led_task3.py).
-1. Added two more LED lights, two resistors, 4 wires. 
+1. Added two more LED lights, two 330 ohm resistors, 4 wires. 
 2. Yellow LED light connected to port 10, and Green LED light connected to port 11
 
 * Circuit is fully functional
@@ -29,10 +29,9 @@
 
 ### Task 4:
 ###### Built on my previous circuit and added the following to it:
-1. 2 more LED lights, 3 in total
-2. 2 more 220 ohm resistors with the LED lights
-3. 2 buttons each with a 10 KOhm resistor
-4. More Coil wires
+
+1. 2 buttons each with a 10 KOhm resistor
+2. More Coil wires
 
 - Button 1 allows the user to turn the LED lights on or off
 
