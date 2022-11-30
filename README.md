@@ -28,7 +28,7 @@
 ![led circuit 3](./LED_circuit3.jpeg)
 
 ### Task 4:
-######Built on my previous circuit and added the following to it:
+###### Built on my previous circuit and added the following to it:
 1. 2 more LED lights, 3 in total
 2. 2 more 220 ohm resistors with the LED lights
 3. 2 buttons each with a 10 KOhm resistor
