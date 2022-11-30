@@ -37,4 +37,9 @@
 
 - Button 2 allows the user to turn to LED lights in a reverse sequence, or change the direction of the light sequence
 
+
 ![led circuit 4](./LED_circuit4.jpeg)
+
+![program output](./led_demo.png)
+
+
