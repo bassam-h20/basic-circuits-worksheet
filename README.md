@@ -41,5 +41,5 @@
 ![led circuit 4](./LED_circuit4.jpeg)
 
 ![program output](./led_demo.png)
-
+- The screenshot above shows the output from the program and the input of the buttons
 
