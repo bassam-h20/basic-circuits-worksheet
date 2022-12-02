@@ -22,7 +22,7 @@ def test_current(voltage, resistance, exp):
     return ohm_law.current(voltage, resistance)
 
 def test_serial_resistance(serial_resistance, exp):
-    assert ohm_law.serial_resistance(serial_resistance) == exp, print("Serial test did not pass, should be the total of:",serial_resistance)
+    assert ohm_law.serial_resistance(serial_resistance) == exp, print("Serial Resistance test did not pass, should be the total of:",serial_resistance)
     print("Serial Resistance test passed")
     return ohm_law.serial_resistance(serial_resistance)
 
