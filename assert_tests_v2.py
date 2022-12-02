@@ -35,4 +35,4 @@ if __name__ == "__main__":
 
     print(test_current(v, r), "Amps\n")
 
-    print(test_serial_resistance(sr), "Ohms\n")
+    print(test_serial_resistance(sr), "Total Ohms\n")
