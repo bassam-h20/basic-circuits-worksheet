@@ -46,6 +46,8 @@
 
 ### Task 5:
 ###### A program that calculates Voltage, Current, Resistance and Serial Resistance (in a series circuit)
+
 - An example of the output shown below
+
 ![program output](./task5_demo.png)
 
