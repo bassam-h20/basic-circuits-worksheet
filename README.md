@@ -43,3 +43,8 @@
 ![program output](./led_demo.png)
 - The screenshot above shows the output from the program and the input of the buttons
 
+
+### Task 5:
+###### A program that calculates Voltage, Current, Resistance and Serial Resistance (in a series circuit)
+
+
