@@ -52,7 +52,8 @@
 ![program output](./task5_demo.png)
 
 - An example of an assertion error shown below (2 images)
+- The current is 0.6 Amps according to the values entered by the user, but is changed below to 0.7, so it outputs an assertion error and prints an "test failed" message
 
-!
+![terminal output 1](./task5_demo2.png) ![terminal output 2](./task5_demo3.png)
 
 
